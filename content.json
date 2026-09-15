@@ -1,0 +1,98 @@
+{
+  "name": "Mustafa Senses",
+  "initials": "MS",
+  "url": "https://mustafasenses.github.io",
+  "avatarUrl": "/me.jpg",
+  "locationLink": "https://www.google.com/maps/place/Ankara,+Turkey",
+  "defaultLocale": "en",
+  "contact": {
+    "email": "mustafa_senses@icloud.com",
+    "social": [
+      {
+        "name": "GitHub",
+        "url": "https://github.com/mustafasenses",
+        "icon": "github",
+        "navbar": true
+      },
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/in/mustafasenses",
+        "icon": "linkedin",
+        "navbar": true
+      },
+      {
+        "name": "Email",
+        "url": "mailto:mustafa_senses@icloud.com",
+        "icon": "email",
+        "navbar": true
+      }
+    ]
+  },
+  "skills": [
+    { "name": ".NET Core", "icon": "dotnet" },
+    { "name": "C#", "icon": "csharp" },
+    { "name": "Node.js", "icon": "nodejs" },
+    { "name": "Express", "icon": "express" },
+    { "name": "JavaScript", "icon": "javascript" },
+    { "name": "TypeScript", "icon": "typescript" },
+    { "name": "Next.js", "icon": "nextjs" },
+    { "name": "React", "icon": "react" },
+    { "name": "Razor Pages", "icon": "razor" },
+    { "name": "Tailwind CSS", "icon": "tailwind" },
+    { "name": "Bootstrap", "icon": "bootstrap" },
+    { "name": "HTML", "icon": "html" },
+    { "name": "jQuery", "icon": "jquery" },
+    { "name": "Telerik / Kendo UI", "icon": "telerik" },
+    { "name": "PyQt5", "icon": "pyqt" },
+    { "name": "Python", "icon": "python" },
+    { "name": "MySQL", "icon": "mysql" },
+    { "name": "MSSQL", "icon": "mssql" },
+    { "name": "SQL", "icon": "sql" },
+    { "name": "MongoDB", "icon": "mongodb" },
+    { "name": "SQLite", "icon": "sqlite" },
+    { "name": "AWS", "icon": "aws" },
+    { "name": "AWS S3", "icon": "s3" },
+    { "name": "DynamoDB", "icon": "dynamodb" },
+    { "name": "AWS Lambda", "icon": "lambda" },
+    { "name": "MQTT", "icon": "mqtt" },
+    { "name": "Elastic Beanstalk", "icon": "beanstalk" },
+    { "name": "CloudWatch", "icon": "cloudwatch" },
+    { "name": "Lightsail", "icon": "lightsail" },
+    { "name": "Docker", "icon": "docker" },
+    { "name": "Git", "icon": "git" },
+    { "name": "GitHub", "icon": "github" },
+    { "name": "GitHub Actions", "icon": "githubactions" },
+    { "name": "GitFlow", "icon": "gitflow" },
+    { "name": "Jira", "icon": "jira" },
+    { "name": "Postman", "icon": "postman" },
+    { "name": "Swagger", "icon": "swagger" },
+    { "name": "Slack", "icon": "slack" }
+  ],
+  "navbar": [{ "href": "/", "icon": "home" }],
+  "seo": {
+    "jobTitle": {
+      "en": "Full Stack Developer",
+      "tr": "Full Stack Developer"
+    },
+    "title": {
+      "en": "Mustafa Senses | Full Stack Developer",
+      "tr": "Mustafa Senses | Full Stack Developer"
+    },
+    "keywords": [
+      "Mustafa Senses",
+      "Full Stack Developer",
+      ".NET Core",
+      "C#",
+      "React",
+      "Next.js",
+      "Node.js",
+      "TypeScript",
+      "AWS",
+      "Ankara",
+      "Yazılım Geliştirici",
+      "Software Developer",
+      "SaaS",
+      "IoT"
+    ]
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "location": "Ankara, Turkey",
+  "description": "Software Developer",
+  "summary": "I'm a Full Stack Developer with **.NET Core** as my main focus. On the frontend, I build scalable, high-performance interfaces with **React** and **Next.js**, and turn to lightweight **Node.js** solutions such as **Express.js** when the project calls for it.\n\nI've worked on development, integration, and deployment across **SaaS**, **IoT**, and cloud projects; I use **AWS** services actively in my day-to-day work.",
+  "greeting": "Hi, I'm {name}",
+  "sections": {
+    "about": "About",
+    "work": "Work Experience",
+    "education": "Education",
+    "skills": "Skills",
+    "projects": "My Projects",
+    "projectsTitle": "Check out my latest work",
+    "projectsDescription": "A selection of products and platforms I've built end to end.",
+    "contact": "Contact",
+    "contactTitle": "Get in Touch",
+    "contactDescription": "Want to talk? Email me at [{email}](mailto:{email}) — I'll get back to you as soon as I can.",
+    "home": "Home",
+    "theme": "Theme",
+    "language": "Language",
+    "present": "Present"
+  },
+  "work": [
+    {
+      "company": "WTECHIN Software & IT Consulting",
+      "href": "#",
+      "location": "Turkey",
+      "title": "Software Developer",
+      "logoUrl": "/logos/wtechin.jpg",
+      "start": "May 2026",
+      "end": "Present"
+    },
+    {
+      "company": "Ankawiser Information Technologies Ltd.",
+      "href": "#",
+      "location": "Turkey",
+      "title": "Software Developer",
+      "logoUrl": "/logos/ankawiser.jpg",
+      "start": "Jul 2022",
+      "end": "May 2026"
+    },
+    {
+      "company": "Delivery One Technology Inc.",
+      "href": "#",
+      "location": "Turkey",
+      "title": "Contract Software Developer",
+      "logoUrl": "/logos/delivery-one.jpg",
+      "start": "Feb 2023",
+      "end": "Jan 2025"
+    }
+  ],
+  "education": [
+    {
+      "school": "Istanbul University",
+      "href": "https://www.istanbul.edu.tr",
+      "degree": "B.S. Management Information Systems (Open Education — compatible with full-time work)",
+      "logoUrl": "/logos/istanbul-university.png",
+      "start": "2022",
+      "end": "2027"
+    },
+    {
+      "school": "Aksaray University",
+      "href": "https://www.aksaray.edu.tr",
+      "degree": "B.S. Management Information Systems (lateral transfer)",
+      "logoUrl": "/logos/aksaray-university.png",
+      "start": "2020",
+      "end": "2022"
+    }
+  ],
+  "projects": [
+    {
+      "title": "Tilegen",
+      "href": "https://tilegen.app",
+      "active": true,
+      "description": "AI-powered visualization platform for ceramic and surface manufacturers/sellers. Integrated third-party AI APIs end to end, modernized the database onto a relational cloud store, and shipped backend services on AWS Lightsail with GitHub Actions CI/CD.",
+      "technologies": [
+        ".NET Core",
+        "MySQL",
+        "AWS Lightsail",
+        "GitHub Actions",
+        "AI APIs"
+      ],
+      "links": [
+        {
+          "type": "Web App",
+          "href": "https://tilegen.app",
+          "icon": "globe"
+        }
+      ],
+      "image": "/projects/tilegen.jpg",
+      "video": ""
+    },
+    {
+      "title": "Voonnect",
+      "href": "https://voonnect.com",
+      "active": true,
+      "description": "A training-management platform that turns English speaking practice into a daily routine. It matches a student with a teacher, auto-creates 10-minute sessions for Monday–Friday, delivers prep material before each one, and runs the sessions on Telegram with a reminder bot. I worked end to end on the landing site, matching and scheduling logic, and the Telegram bot integration.",
+      "technologies": [
+        "Next.js",
+        "React",
+        "TypeScript",
+        ".NET Core",
+        "Telegram Bot API"
+      ],
+      "links": [
+        {
+          "type": "Web App",
+          "href": "https://voonnect.com",
+          "icon": "globe"
+        }
+      ],
+      "image": "/projects/voonnect.png",
+      "video": ""
+    },
+    {
+      "title": "greenbar",
+      "href": "https://mustafasenses.dev/greenbar/",
+      "active": true,
+      "description": "Browser-based tool that turns a GitHub avatar into an ASCII portrait and a profile README you can paste straight into your repo. Everything runs in the tab; no backend or account needed.",
+      "technologies": [
+        "JavaScript",
+        "Vite",
+        "Tailwind CSS",
+        "Canvas API",
+        "GitHub API"
+      ],
+      "links": [
+        {
+          "type": "Web App",
+          "href": "https://mustafasenses.dev/greenbar/",
+          "icon": "globe"
+        },
+        {
+          "type": "Source",
+          "href": "https://github.com/mustafasenses/greenbar",
+          "icon": "github"
+        }
+      ],
+      "image": "/projects/greenbar.png",
+      "video": ""
+    },
+    {
+      "title": "SiteHarvest",
+      "href": "https://github.com/mustafasenses/SiteHarvest",
+      "active": true,
+      "description": "Local-first terminal app that learns a browser flow once, then replays it to collect repeating page items like text, images and URLs. Runs on your own machine; results land on disk as JSON and media files.",
+      "technologies": [
+        ".NET 9",
+        "C#",
+        "Playwright",
+        "Spectre.Console"
+      ],
+      "links": [
+        {
+          "type": "Source",
+          "href": "https://github.com/mustafasenses/SiteHarvest",
+          "icon": "github"
+        }
+      ],
+      "image": "/projects/siteharvest.png",
+      "video": ""
+    },
+    {
+      "title": "dotnet-next-boilerplate",
+      "href": "https://github.com/mustafasenses/dotnet-next-boilerplate",
+      "active": true,
+      "description": "Boilerplate starter for full-stack apps with .NET and Next.js — a ready foundation for modern web projects.",
+      "technologies": [
+        ".NET Core",
+        "C#",
+        "Next.js",
+        "React",
+        "TypeScript",
+        "MySQL",
+        "Docker",
+        "Tailwind CSS",
+        "Swagger"
+      ],
+      "links": [
+        {
+          "type": "Source",
+          "href": "https://github.com/mustafasenses/dotnet-next-boilerplate",
+          "icon": "github"
+        }
+      ],
+      "image": "",
+      "video": ""
+    },
+    {
+      "title": "react-vite-ts-boilerplate",
+      "href": "https://github.com/mustafasenses/react-vite-ts-boilerplate",
+      "active": true,
+      "description": "React + Vite + TypeScript starter template with a clean project structure for building modern SPAs quickly.",
+      "technologies": [
+        "React",
+        "Vite",
+        "TypeScript",
+        "Tailwind CSS",
+        "Zustand",
+        "Axios",
+        "React Router"
+      ],
+      "links": [
+        {
+          "type": "Source",
+          "href": "https://github.com/mustafasenses/react-vite-ts-boilerplate",
+          "icon": "github"
+        }
+      ],
+      "image": "",
+      "video": ""
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://mustafasenses.github.io
+Sitemap: https://mustafasenses.github.io/sitemap.xml

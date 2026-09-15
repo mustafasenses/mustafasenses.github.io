@@ -1,0 +1,213 @@
+{
+  "location": "Ankara, Türkiye",
+  "description": "Yazılım Geliştirici",
+  "summary": "**.NET Core** ana odağında olan bir Full Stack Developer’ım. Frontend tarafında **React** ve **Next.js** ile ölçeklenebilir ve yüksek performanslı arayüzler geliştirirken, ihtiyaç dahilinde **Express.js** gibi hafif **Node.js** çözümlerinden de faydalanıyorum.\n\n**SaaS**, **IoT** ve bulut projelerinde geliştirme, entegrasyon ve canlıya alma süreçlerinde yer aldım; günlük işlerimde **AWS** servislerini aktif kullanıyorum.",
+  "greeting": "Merhaba, ben {name}",
+  "sections": {
+    "about": "Hakkımda",
+    "work": "İş Deneyimi",
+    "education": "Eğitim",
+    "skills": "Yetenekler",
+    "projects": "Projelerim",
+    "projectsTitle": "Son çalışmalarıma göz atın",
+    "projectsDescription": "Uçtan uca hayata geçirdiğim ürünlerden birkaçı.",
+    "contact": "İletişim",
+    "contactTitle": "İletişime geç",
+    "contactDescription": "Bir şey konuşmak isterseniz [{email}](mailto:{email}) adresine yazman yeterli. Mümkün olduğunca hızlı dönüş yaparım.",
+    "home": "Ana Sayfa",
+    "theme": "Tema",
+    "language": "Dil",
+    "present": "Halen"
+  },
+  "work": [
+    {
+      "company": "WTECHIN Yazılım Bilişim ve Danışmanlık",
+      "href": "#",
+      "location": "Türkiye",
+      "title": "Yazılım Geliştirici",
+      "logoUrl": "/logos/wtechin.jpg",
+      "start": "May 2026",
+      "end": "Halen"
+    },
+    {
+      "company": "Ankawiser Bilişim Teknolojileri LTD. ŞTİ.",
+      "href": "#",
+      "location": "Türkiye",
+      "title": "Yazılım Geliştirici",
+      "logoUrl": "/logos/ankawiser.jpg",
+      "start": "Tem 2022",
+      "end": "May 2026"
+    },
+    {
+      "company": "Delivery One Teknoloji A.Ş.",
+      "href": "#",
+      "location": "Türkiye",
+      "title": "Sözleşmeli Yazılım Geliştirici",
+      "logoUrl": "/logos/delivery-one.jpg",
+      "start": "Şub 2023",
+      "end": "Oca 2025"
+    }
+  ],
+  "education": [
+    {
+      "school": "İstanbul Üniversitesi",
+      "href": "https://www.istanbul.edu.tr",
+      "degree": "Yönetim Bilişim Sistemleri (Lisans) — Açıköğretim; tam zamanlı çalışmaya engel değil",
+      "logoUrl": "/logos/istanbul-university.png",
+      "start": "2022",
+      "end": "2027"
+    },
+    {
+      "school": "Aksaray Üniversitesi",
+      "href": "https://www.aksaray.edu.tr",
+      "degree": "Yönetim Bilişim Sistemleri (Lisans) — Yatay geçiş",
+      "logoUrl": "/logos/aksaray-university.png",
+      "start": "2020",
+      "end": "2022"
+    }
+  ],
+  "projects": [
+    {
+      "title": "Tilegen",
+      "href": "https://tilegen.app",
+      "active": true,
+      "description": "Fayans ve yüzey üreticileri için seramik desenlerini görselleştiren yapay zeka destekli bir platform. Üçüncü parti AI API entegrasyonunu uçtan uca tamamladım, veritabanını ilişkisel bulut altyapısına taşıdım ve backend’i AWS Lightsail üzerinde GitHub Actions ile canlıya aldım.",
+      "technologies": [
+        ".NET Core",
+        "MySQL",
+        "AWS Lightsail",
+        "GitHub Actions",
+        "AI API"
+      ],
+      "links": [
+        {
+          "type": "Web App",
+          "href": "https://tilegen.app",
+          "icon": "globe"
+        }
+      ],
+      "image": "/projects/tilegen.jpg",
+      "video": ""
+    },
+    {
+      "title": "Voonnect",
+      "href": "https://voonnect.com",
+      "active": true,
+      "description": "İngilizce konuşma pratiğini günlük rutine dönüştüren eğitim yönetim platformu. Öğrenciyi bir öğretmenle eşleştirip Pazartesi–Cuma için 10 dakikalık seanslar oluşturuyor, seans öncesi hazırlık materyali gönderiyor ve seanslar hatırlatma botuyla Telegram üzerinde yürüyor. Landing sitesi, eşleştirme ve planlama mantığı ve Telegram bot entegrasyonunda uçtan uca çalıştım.",
+      "technologies": [
+        "Next.js",
+        "React",
+        "TypeScript",
+        ".NET Core",
+        "Telegram Bot API"
+      ],
+      "links": [
+        {
+          "type": "Web App",
+          "href": "https://voonnect.com",
+          "icon": "globe"
+        }
+      ],
+      "image": "/projects/voonnect.png",
+      "video": ""
+    },
+    {
+      "title": "greenbar",
+      "href": "https://mustafasenses.dev/greenbar/",
+      "active": true,
+      "description": "Bir GitHub avatarını ASCII portreye ve doğrudan repona yapıştırabileceğin bir profil README'sine çeviren tarayıcı tabanlı araç. Her şey sekmede çalışıyor; sunucu ya da hesap gerekmiyor.",
+      "technologies": [
+        "JavaScript",
+        "Vite",
+        "Tailwind CSS",
+        "Canvas API",
+        "GitHub API"
+      ],
+      "links": [
+        {
+          "type": "Web App",
+          "href": "https://mustafasenses.dev/greenbar/",
+          "icon": "globe"
+        },
+        {
+          "type": "Kaynak",
+          "href": "https://github.com/mustafasenses/greenbar",
+          "icon": "github"
+        }
+      ],
+      "image": "/projects/greenbar.png",
+      "video": ""
+    },
+    {
+      "title": "SiteHarvest",
+      "href": "https://github.com/mustafasenses/SiteHarvest",
+      "active": true,
+      "description": "Bir tarayıcı akışını bir kez öğrenip metin, görsel ve URL gibi tekrar eden sayfa öğelerini toplamak için yeniden oynatan yerel terminal uygulaması. Kendi makinende çalışır; sonuçlar diske JSON ve medya dosyası olarak iner.",
+      "technologies": [
+        ".NET 9",
+        "C#",
+        "Playwright",
+        "Spectre.Console"
+      ],
+      "links": [
+        {
+          "type": "Kaynak",
+          "href": "https://github.com/mustafasenses/SiteHarvest",
+          "icon": "github"
+        }
+      ],
+      "image": "/projects/siteharvest.png",
+      "video": ""
+    },
+    {
+      "title": "dotnet-next-boilerplate",
+      "href": "https://github.com/mustafasenses/dotnet-next-boilerplate",
+      "active": true,
+      "description": ".NET ve Next.js ile full-stack uygulamalar için hazır boilerplate — modern web projelerine hızlı başlangıç.",
+      "technologies": [
+        ".NET Core",
+        "C#",
+        "Next.js",
+        "React",
+        "TypeScript",
+        "MySQL",
+        "Docker",
+        "Tailwind CSS",
+        "Swagger"
+      ],
+      "links": [
+        {
+          "type": "Kaynak",
+          "href": "https://github.com/mustafasenses/dotnet-next-boilerplate",
+          "icon": "github"
+        }
+      ],
+      "image": "",
+      "video": ""
+    },
+    {
+      "title": "react-vite-ts-boilerplate",
+      "href": "https://github.com/mustafasenses/react-vite-ts-boilerplate",
+      "active": true,
+      "description": "Modern SPA’ler için temiz proje yapısına sahip React + Vite + TypeScript başlangıç şablonu.",
+      "technologies": [
+        "React",
+        "Vite",
+        "TypeScript",
+        "Tailwind CSS",
+        "Zustand",
+        "Axios",
+        "React Router"
+      ],
+      "links": [
+        {
+          "type": "Kaynak",
+          "href": "https://github.com/mustafasenses/react-vite-ts-boilerplate",
+          "icon": "github"
+        }
+      ],
+      "image": "",
+      "video": ""
+    }
+  ]
+}
