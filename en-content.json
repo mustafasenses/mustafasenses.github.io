@@ -112,6 +112,31 @@
       "video": ""
     },
     {
+      "title": "Carinet",
+      "href": "https://carinet.tilegen.app",
+      "active": true,
+      "description": "Inventory, sales and customer-account system I built for businesses, in daily use since 2024. An AI assistant on Telegram answers questions about the data and sends low-stock alerts and daily summaries automatically.",
+      "technologies": [
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "EJS",
+        "Firebase Auth",
+        "Puppeteer",
+        "Gemini API",
+        "Telegram Bot API"
+      ],
+      "links": [
+        {
+          "type": "Website",
+          "href": "https://carinet.tilegen.app",
+          "icon": "globe"
+        }
+      ],
+      "image": "/projects/carinet.png",
+      "video": ""
+    },
+    {
       "title": "greenbar",
       "href": "https://mustafasenses.dev/greenbar/",
       "active": true,

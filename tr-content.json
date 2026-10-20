@@ -112,6 +112,31 @@
       "video": ""
     },
     {
+      "title": "Carinet",
+      "href": "https://carinet.tilegen.app",
+      "active": true,
+      "description": "İşletmeler için geliştirdiğim, 2024’ten beri her gün kullanılan stok, satış ve cari hesap yönetim sistemi. Telegram’daki yapay zekâ asistanı verilerle ilgili soruları yanıtlıyor; stok uyarılarını ve günlük özetleri otomatik gönderiyor.",
+      "technologies": [
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "EJS",
+        "Firebase Auth",
+        "Puppeteer",
+        "Gemini API",
+        "Telegram Bot API"
+      ],
+      "links": [
+        {
+          "type": "Web Sitesi",
+          "href": "https://carinet.tilegen.app",
+          "icon": "globe"
+        }
+      ],
+      "image": "/projects/carinet.png",
+      "video": ""
+    },
+    {
       "title": "greenbar",
       "href": "https://mustafasenses.dev/greenbar/",
       "active": true,
